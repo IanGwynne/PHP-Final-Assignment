@@ -1,0 +1,28 @@
+/* http://localhost/HaworthIanCodingAsst/asstmain.php */
+table, th, td {
+    border:1px solid black;
+  }
+
+.datapair{
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+    margin-left: 0.75em;
+}
+
+input{
+    font-size: 1.2em;
+}
+
+body{
+    font-size: 1.2em;
+    color: #2e4a62;
+    background-color:#cddbe7;
+}
+
+h1{
+    color: #1b2c3a ;
+}
+
+h2{
+    color: #203344;
+}
